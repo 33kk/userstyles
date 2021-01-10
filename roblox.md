@@ -1,10 +1,10 @@
-[![HitCount](http://hits.dwyl.io/33kk/userstyles-stuff.svg)](http://hits.dwyl.io/33kk/userstyles-stuff) 🥴
+[![HitCount](http://hits.dwyl.io/33kk/userstyles-stuff.svg)](http://hits.dwyl.io/33kk/userstyles-stuff) 
 
-this is probably already borked, as is userstyles.org 🥴
+this is probably already borked, as is userstyles.org
 
 ## Installation
 
-*first unsintall extension userstyles.org wants you to install 🥴*
+*first unsintall extension (Stylish) userstyles.org wants you to install*
 
 ### Firefox:
 - Install [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
